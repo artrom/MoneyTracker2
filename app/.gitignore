@@ -1,0 +1,5 @@
+/build
+/.idea/workspace.xml
+/.idea/libraries
+build.gradle
+/local.properties
